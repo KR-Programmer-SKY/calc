@@ -9,3 +9,7 @@ function subtract(a, b) {
 function testAdd() {
   console.log(ad(1, 1) === 2);
 }
+
+function multuply() {
+  return a * b;
+}
