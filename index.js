@@ -5,3 +5,7 @@ function add(a, b) {
 function subtract(a, b) {
   return a - b;
 }
+
+function testAdd() {
+  console.log(ad(1, 1) === 2);
+}
