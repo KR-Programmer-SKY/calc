@@ -2,5 +2,5 @@
 
 ## API
 
-- `add(a, b)`
-- `substract(a, b)`
+- `add(a, b)` : a와 b를 더한다.
+- `substract(a, b)` : a와 b를 뺀다.
