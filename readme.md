@@ -1,3 +1,6 @@
-#### 내 이름은 SKY
+# Calc
 
-one day I visited at a zoo in my village.
+## API
+
+- `add(a, b)`
+- `substract(a, b)`
